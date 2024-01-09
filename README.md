@@ -13,21 +13,21 @@
 
 # Technical
 
-<img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/html5.png" alt="html5">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/css.png" alt="css">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/js.png" alt="javascript">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/react.png" alt="react">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/mysql.png" alt="mysql">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/python.png" alt="python">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/firebase.png" alt="firebase">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/wordpress.png" alt="wordpress">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/api.png" alt="api"><br>
+<img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/html5.png" alt="html5">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/css.png" alt="css">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/js.png" alt="javascript">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/react.png" alt="react">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/mysql.png" alt="mysql">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/python.png" alt="python">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/firebase.png" alt="firebase">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/wordpress.png" alt="wordpress">
+    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/api.png" alt="api">
 
 # Tools
-<img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/word.png" alt="word">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/excel.png" alt="excel">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/ppt.png" alt="ppt">
-    <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/outlook.png" alt="outlook">
+<img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/word.png" alt="word">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/excel.png" alt="excel">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/ppt.png" alt="ppt">
+    <img align="left" height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/outlook.png" alt="outlook">
     <img height= 50 width=50 src="https://raw.githubusercontent.com/mrudayjatav/mrudayjatav/main/Icons/vscode.png" alt="vscode">
 <span style="color: #0099ff; font-size:20px;"><b>Note:</b> 🌱 I’m currently learning & working on above <i>Tools and Skills.</i></span>
 <!--
